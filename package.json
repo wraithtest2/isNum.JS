@@ -1,0 +1,19 @@
+{
+  "name": "isnum.js",
+  "version": "1.0.0",
+  "description": "Advanced integer checking methods for javascript",
+  "main": "isnum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math",
+    "isnum",
+    "is",
+    "num",
+    "int",
+    "isint"
+  ],
+  "author": "Wraith",
+  "license": "MIT"
+}
